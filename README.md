@@ -9,7 +9,7 @@
 
 ## 🔗 Links
 
- - [Github Link]()
+ - [Github Link](https://github.com/Namsrkive/Pathshala/tree/main)
  - [Website Link]()
 
 ## 🛠 Skills

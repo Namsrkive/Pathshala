@@ -18,4 +18,4 @@ HTML, CSS, JavaScript, Git
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.png)
+![screenshot](pathshala.png)
